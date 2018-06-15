@@ -5,15 +5,15 @@ This is a project about classification of 60 types of fruits by team "Triple SD"
 * Language: Python(Version 3)
 * Frameworks: Tensorflow, Keras
 ## Code Organization
-demo.ipynb  - - Run a demo of our CNN models with augmented data (reproduce Table 3 of our report) <br />
-train.ipynb  - - Run training and test of our CNN models with original data (reproducde Figure ) <br />
-train_augmented.ipynb  - - Run training and test of our CNN models with augmented data (reproducde Figure ) <br />
-train_regularized.ipynb  - - Run training and test of our CNN models with regularization (reproducde Figure ) <br />
+demo.ipynb  - - Run a demo of our CNN models with augmented data (reproduce Table 5 of our report) <br />
+train.ipynb  - - Run training and test of our CNN models with original data (reproducde Table 2,3, Figure 5) <br />
+train_augmented.ipynb  - - Run training and test of our CNN models with augmented data (reproduce Tabel 5 ) <br />
+train_regularized.ipynb  - - Run training and test of our CNN models with regularization (reproduce result in Section 4.1.5) <br />
 VGG16.ipynb  - - Run training and test using VGG16 model (reproduce Table 6) <br />
-data preprocessing.py  - - Code for data preprocessing and origin data (as described in Section ) <br />
-DA-Gaussian.py  - - Data augmented by adding Gaussian noise (as described in Section ) <br /> 
-DA-salt&pepper.py  - - Data augmented by adding salt&pepper noise (as described in Section ) <br />
-DA-perspective.py  - - Data augmented by adding perspective transformation (as described in Section ) <br />
+data preprocessing.py  - - Code for data preprocessing and origin data (as described in Section 3.1.1) <br />
+DA-Gaussian.py  - - Data augmented by adding Gaussian noise (as described in Section 3.1.2) <br /> 
+DA-salt&pepper.py  - - Data augmented by adding salt&pepper noise (as described in Section 3.1.2) <br />
+DA-perspective.py  - - Data augmented by adding perspective transformation (as described in Section 3.1.2) <br />
 model.dat - - Our model trained as described in Section 
 ## Authors
 Team: Triple SD <br />
