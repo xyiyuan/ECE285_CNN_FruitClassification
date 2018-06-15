@@ -9,7 +9,7 @@ demo.ipynb  - - Run a demo of our CNN models with augmented data (reproduce Tabl
 train.ipynb  - - Run training and test of our CNN models with original data (reproducde Figure ) <br />
 train_augmented.ipynb  - - Run training and test of our CNN models with augmented data (reproducde Figure ) <br />
 train_regularized.ipynb  - - Run training and test of our CNN models with regularization (reproducde Figure ) <br />
-VGG16.ipynb  - - Run training and test using VGG16 model (reproduce Table  <br />
+VGG16.ipynb  - - Run training and test using VGG16 model (reproduce Table 6) <br />
 data preprocessing.py  - - Code for data preprocessing and origin data (as described in Section ) <br />
 DA-Gaussian.py  - - Data augmented by adding Gaussian noise (as described in Section ) <br /> 
 DA-salt&pepper.py  - - Data augmented by adding salt&pepper noise (as described in Section ) <br />
