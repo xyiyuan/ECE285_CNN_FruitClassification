@@ -5,12 +5,12 @@ This is a project about classification of 60 types of fruits by team "Triple SD"
 * Language: Python(Version 3)
 * Frameworks: Tensorflow, Keras
 ## Code Organization
-demo.ipynb  - - Run a demo of our code (reproduce Table 3 of our report) <br />
+demo.ipynb  - - Run a demo of our fine-tuned CNN models with augmented data (reproduce Table 3 of our report) <br />
 data preprocessing.py  - - Code for data preprocessing and origin data <br />
 DA-Gaussian.py  - - Data augmented by adding Gaussian noise (as described in Section ) <br /> 
 DA-salt&pepper.py  - - Data augmented by adding salt&pepper noise (as described in Section ) <br />
 DA-perspective.py  - - Data augmented by adding perspective transformation (as described in Section ) <br />
-train.ipynb  - - Run training and test of the fine-tuned CNN models we built with augmented data(reproducde Figure ) <br />
+train.ipynb  - - Run training and test of our fine-tuned CNN models with augmented data (reproducde Figure ) <br />
 VGG16.ipynb  - - Run training and test using VGG16 model (reproduce Table  <br />
 ## Authors
 Team: Triple SD <br />
