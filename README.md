@@ -6,7 +6,7 @@ This is a project about classification of 60 types of fruits by team "Triple SD"
 * Frameworks: Tensorflow, Keras
 ## Code Organization
 demo.ipynb - - Run a demo of our code (reproduce Table 3 of our report) <br />
-Data Preprocessing.py  - - Code for data preprocessing <br />
+data preprocessing.py  - - Code for data preprocessing <br />
 DA-Gaussian.ipynb    - - Implement data augmentation by adding Gaussian noise (as described in Section  <br /> 
 DA-salt&pepper.ipynb   - - Implement data augmentation by adding salt&pepper noise (as described in Section <br />
 DA-perspective transformation.ipynb - - Implement data augmentation by adding perspective transformation (as described in Section <br />
