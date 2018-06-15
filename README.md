@@ -14,7 +14,7 @@ data preprocessing.py  - - Code for data preprocessing and origin data (as descr
 DA-Gaussian.py  - - Data augmented by adding Gaussian noise (as described in Section 3.1.2) <br /> 
 DA-salt&pepper.py  - - Data augmented by adding salt&pepper noise (as described in Section 3.1.2) <br />
 DA-perspective.py  - - Data augmented by adding perspective transformation (as described in Section 3.1.2) <br />
-model.dat - - Our model trained as described in Section 3.2 <br />
+model.dat - - Our fine-tuned model (as described in Section 3.2) <br />
 ## Authors
 Team: Triple SD <br />
 Members: Huadong Zhang, Xiao Sai, Yiyuan Xing
