@@ -7,7 +7,7 @@ This is a project about classification of 60 types of fruits by team "Triple SD"
 ## Code Organization
 demo.ipynb  - - Run a demo of our CNN models with augmented data (reproduce Table 5 of our report) <br />
 train.ipynb  - - Run training and test of our CNN models with original data (reproducde Table 2,3, Figure 5) <br />
-train_augmented.ipynb  - - Run training and test of our CNN models with augmented data (reproduce Tabel 5 ) <br />
+train_augmented.ipynb  - - Run training and test of our CNN models with augmented data (reproduce Tabel 5) <br />
 train_regularized.ipynb  - - Run training and test of our CNN models with regularization (reproduce result in Section 4.1.5) <br />
 VGG16.ipynb  - - Run training and test using VGG16 model (reproduce Table 6) <br />
 data preprocessing.py  - - Code for data preprocessing and origin data (as described in Section 3.1.1) <br />
