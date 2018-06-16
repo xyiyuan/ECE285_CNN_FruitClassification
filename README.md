@@ -15,7 +15,7 @@ DA-Gaussian.py  - - Data augmented by adding Gaussian noise (as described in Sec
 DA-salt&pepper.py  - - Data augmented by adding salt&pepper noise (as described in Section 3.1.2) <br />
 DA-perspective.py  - - Data augmented by adding perspective transformation (as described in Section 3.1.2) <br />
 model.h5 - - Our fine-tuned model (as described in Section 3.2) <br />
-test set.py - - Set for running the demo <br />
+test set.py - - Test set for running the demo <br />
 ## Authors
 Team: Triple SD <br />
 Members: Huadong Zhang, Xiao Sai, Yiyuan Xing
