@@ -5,7 +5,7 @@ This is a project about classification of 60 types of fruits by team "Triple SD"
 * Language: Python(Version 3)
 * Frameworks: Tensorflow, Keras
 ## Code Organization
-demo.ipynb  - - Run a demo of our CNN models (reproduce Table 5 of our report) <br />
+demo.ipynb  - - Run a demo of our CNN models (reproduce Table 5 of our report) (run in python2 since the server is somewhere incompitable with keras)<br />
 train.ipynb  - - Run training and test of our CNN models with original data (reproducde Table 2,3, Figure 5) <br />
 train_augmented.ipynb  - - Run training and test of our CNN models with augmented data (reproduce Tabel 5) <br />
 train_regularized.ipynb  - - Run training and test of our CNN models with regularization (reproduce result in Section 4.1.5) <br />
